@@ -1,3 +1,6 @@
+<div align="center">
+    <img width="100" height="100" alt="eyeball-maze-app-logo" src="https://github.com/user-attachments/assets/4fd5cf8f-81b1-4fab-957c-b51ef1c7610d" />
+
 # Eyeball Maze
 ![Java](https://img.shields.io/badge/Java-JDK_17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
@@ -6,15 +9,14 @@
 ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Min SDK](https://img.shields.io/badge/Min_SDK-28+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-> BCDE223 Best Programming Practices (Java)
+`Eyeball Maze` ia a simple maze game where the player navigates an eyeball through a maze. Built using Java, as part of the **BCDE223 Best Programming Practices (Java)** course, this project demonstrates basic game logic, collision detection, and user input handling.
 
-> A simple maze game where the player navigates an eyeball through a maze. Built using Java, as part of the **BCDE223 Best Programming Practices (Java)** course, this project demonstrates basic game logic, collision detection, and user input handling.
-
----
+~✦~
 
 [![Live Demo](https://img.shields.io/badge/Download_APK-Live%20Demo%20-181717?style=for-the-badge&logo=android&labelColor=gray)]()
-
 [![Video Demo](https://img.shields.io/badge/YouTube-View%20Recorded%20Demo-1a1a2e?style=for-the-badge&logo=youtube&labelColor=16213e)]()
+
+</div>
 
 ---
 
@@ -25,12 +27,20 @@
 - Keyboard input controls (arrow keys)
 - Goal detection and game completion feedback
 
-> [![📖 See Wiki ](https://img.shields.io/badge/See_Wiki_⊿_-1a1a2e?style=for-the-badge&labelColor=16213e)](https://github.com/arseniedev/eyeball-maze/wiki)</br>
-> for the iteration snapshots, full admin usage instructions, and data model details.
-
 <table>
     <tr>
         <td><image src="https://github.com/arseniedev/eyeball-maze/blob/docs/assets/clips/clip-001.gif" width="200" alt="clip-001.gif"></image></td>
+        <td><image src="https://github.com/arseniedev/eyeball-maze/blob/docs/assets/clips/clip-002.gif" width="200" alt="clip-002.gif"></td>
+        <td><image src="https://github.com/arseniedev/eyeball-maze/blob/docs/assets/clips/clip-003.gif" width="200" alt="clip-003.gif"></td>
+        <td><image src="https://github.com/arseniedev/eyeball-maze/blob/docs/assets/clips/clip-004.gif" width="200" alt="clip-004.gif"></td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Event handler (button clicks/ tough gestures) to control player movement</li>
+                <li>Display an updated move count for player character</li>
+            </ul>
+        </td>
         <td>
             <ul>
                 <li>Display starting level + level name</li>
@@ -38,37 +48,24 @@
                 <li>Diplay image of player character + correct direction</li>
             </ul>
         </td>
-    </tr>
-    <tr>
-        <td><image src="https://github.com/arseniedev/eyeball-maze/blob/docs/assets/clips/clip-002.gif" width="200" alt="clip-002.gif"></td>
         <td>
             <ul>
-                <li>Event handler (button clicks/ tough gestures) to control player movement</li>
-                <li>Display an updated move count for player character</li>
-                <li></li>
+                <li>A button or menu to restart the current maze</li>
             </ul>
         </td>
-    </tr>
-    <tr>
-        <td><image src="https://github.com/arseniedev/eyeball-maze/blob/docs/assets/clips/clip-003.gif" width="200" alt="clip-003.gif"></td>
-        <td>
-            <ul>
-                <li>A button or menu to restart the current maze*</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><image src="https://github.com/arseniedev/eyeball-maze/blob/docs/assets/clips/clip-004.gif" width="200" alt="clip-004.gif"></td>
         <td>
             <ul>
                 <li>Diplay rules/prompt if move does not obey move logic rules</li>
                 <li>Play a short relevant and suitable audio / video if player character intends to move incorrectly*</li>
             </ul>
-        </td>
+        </td>        
     </tr>
+
 </table>
 
-## Setup & Installation
+> [📖 See Wiki](https://github.com/arseniedev/eyeball-maze/wiki) for the full iteration snapshots.
+
+## Installation & Setup
 
 1. Clone the repository:
 
@@ -120,3 +117,7 @@ A visual representation of the maze and game logic is available in the PDF file:
 > **Disclaimer**
 > 
 > All the content presented here is the result of my own individual work, and any resemblance to other works is purely coincidental. If you are a student, please refrain from using or copying this work in any way that violates the principles of academic honesty and integrity.
+
+---
+
+Created by Arsenie — 2025
