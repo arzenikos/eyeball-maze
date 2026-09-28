@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100" height="100" alt="eyeball-maze-app-logo" src="https://github.com/user-attachments/assets/4fd5cf8f-81b1-4fab-957c-b51ef1c7610d" />
+    <img width="100" height="100" alt="eyeball-maze-app-logo" src="https://github.com/user-attachments/assets/c5b3a91e-de0c-415e-bc5d-c5095d27c6fc" />
 
 # Eyeball Maze
 ![Java](https://img.shields.io/badge/Java-JDK_17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
