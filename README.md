@@ -89,10 +89,11 @@ git clone https://github.com/arsenie-sarmiento/draft-project-eyeball-maze.git
 ├── assets
 │   └── clips
 ├── diagrams
-│   └── eyeball-maze-class-diagram-iteration-1.pdf
+│   ├── eyeball-maze-class-diagram-iteration-1.pdf
+│   └── eyeball-maze.drawio
 └── structure.txt
 
-4 directories, 3 files
+4 directories, 4 files
 ```
 <!-- END_STRUCTURE -->
 
